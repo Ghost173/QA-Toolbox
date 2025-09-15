@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QA-Toolbox/static/css/main.300c3f62.css",
+    "main.js": "/QA-Toolbox/static/js/main.e742862d.js",
+    "index.html": "/QA-Toolbox/index.html",
+    "main.300c3f62.css.map": "/QA-Toolbox/static/css/main.300c3f62.css.map",
+    "main.e742862d.js.map": "/QA-Toolbox/static/js/main.e742862d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.300c3f62.css",
+    "static/js/main.e742862d.js"
+  ]
+}
