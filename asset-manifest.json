@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/QA-Toolbox/static/css/main.300c3f62.css",
-    "main.js": "/QA-Toolbox/static/js/main.e742862d.js",
+    "main.js": "/QA-Toolbox/static/js/main.c1211ee8.js",
     "index.html": "/QA-Toolbox/index.html",
     "main.300c3f62.css.map": "/QA-Toolbox/static/css/main.300c3f62.css.map",
-    "main.e742862d.js.map": "/QA-Toolbox/static/js/main.e742862d.js.map"
+    "main.c1211ee8.js.map": "/QA-Toolbox/static/js/main.c1211ee8.js.map"
   },
   "entrypoints": [
     "static/css/main.300c3f62.css",
-    "static/js/main.e742862d.js"
+    "static/js/main.c1211ee8.js"
   ]
 }
